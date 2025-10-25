@@ -1,4 +1,4 @@
-# 🧠 Face Detection and Recognition with MTCNN & Inception-ResNet V1
+# 🎭🕵🏼‍♂ Face Detection and Recognition with MTCNN & Inception-ResNet V1
 
 This project demonstrates how to perform **face detection** and **recognition** using deep learning models on a **video of Indian Olympic boxer Mary Kom**.
 It combines **MTCNN** (Multi-task Cascaded Convolutional Network) for face detection and **Inception-ResNet V1** for feature extraction and face embedding generation.
