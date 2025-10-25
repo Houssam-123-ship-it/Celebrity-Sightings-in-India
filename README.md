@@ -5,19 +5,33 @@ It combines **MTCNN** (Multi-task Cascaded Convolutional Network) for face detec
 Finally, it wraps the entire pipeline into a **Flask web application** that allows users to upload an image and perform real-time face recognition.
 
 ---
-![Gif](applications/045FlaskAPI_WQU-AppliedAILabs-CV-GoogleChrome2025-10-2517-09-38-ezgif.com-video-to-gif-converter.gif)
-<p>
+<div align="center">
+
+  <!-- GIF Demo -->
+  <img src="applications/045FlaskAPI_WQU-AppliedAILabs-CV-GoogleChrome2025-10-2517-09-38-ezgif.com-video-to-gif-converter.gif" width="700" />
+
+  <br><br>
+
+  <!-- Screenshot 1 -->
   <img src="applications/Screenshot 2025-10-25 170910.png" width="700" />
-</p>
-<p>
+
+  <br><br>
+
+  <!-- Screenshot 2 -->
   <img src="applications/Screenshot 2025-10-25 164307.png" width="700" />
-</p>
-<p>
+
+  <br><br>
+
+  <!-- Screenshot 3 -->
   <img src="applications/Screenshot 2025-10-25 171820.png" width="700" />
-</p>
-<p>
+
+  <br><br>
+
+  <!-- Screenshot 4 -->
   <img src="applications/Screenshot 2025-10-25 164518.png" width="700" />
-</p>
+
+</div>
+
 ## 🎯 Project Overview
 
 The project guides you through building a complete end-to-end facial recognition workflow:
