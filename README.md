@@ -170,14 +170,8 @@ This modular architecture keeps the front-end and back-end logic separate for ea
 ├── notebooks/
 │   ├── 01-video-preprocessing.ipynb
 │   ├── 02-face-detection-mtcnn.ipynb
-│   ├── NB3/
-      ├── app/
-      │   ├── static/
-      │   ├── templates/
-      │   ├── app.py
-      |      03-face-recognition-resnet.ipynb
-│   ├── NB4/
-      |04-flask-deployment.ipynb
+│   |── 03-face-recognition-resnet.ipynb
+│   |── 04-flask-deployment.ipynb
 │
 └── README.md
 ```
