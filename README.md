@@ -9,10 +9,13 @@ Finally, it wraps the entire pipeline into a **Flask web application** that allo
   <img src="applications/Screenshot 2025-10-25 170910.png" width="700" />
 </p>
 <p>
-  <img src="applications/Screenshot 2025-10-25 170910.png" width="700" />
+  <img src="applications/Screenshot 2025-10-25 164307.png" width="700" />
 </p>
 <p>
-  <img src="applications/Screenshot 2025-10-25 170910.png" width="700" />
+  <img src="applications/Screenshot 2025-10-25 171820.png" width="700" />
+</p>
+<p>
+  <img src="applications/Screenshot 2025-10-25 164518.png" width="700" />
 </p>
 ## 🎯 Project Overview
 
